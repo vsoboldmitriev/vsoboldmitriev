@@ -1,4 +1,4 @@
-![Alt text](https://i.pinimg.com/originals/26/27/01/26270164dedb3897539674f31268c37b.gif)
+![Alt text|1000](https://i.pinimg.com/originals/26/27/01/26270164dedb3897539674f31268c37b.gif)
 ***
 ## hello world 🤖
 ***
