@@ -1,5 +1,7 @@
+![Alt text](https://i.pinimg.com/originals/26/27/01/26270164dedb3897539674f31268c37b.gif)
+***
 ## hello world 🤖
-
+***
 <!--
 **vsoboldmitriev/vsoboldmitriev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Alt text](https://i.pinimg.com/originals/26/27/01/26270164dedb3897539674f31268c37b.gif)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11747210&count=10&width=500)
