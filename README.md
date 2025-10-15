@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![[Pasted image 20251015213359.png]]](https://i.pinimg.com/originals/26/27/01/26270164dedb3897539674f31268c37b.gif)
+[![Alt text]](https://i.pinimg.com/originals/26/27/01/26270164dedb3897539674f31268c37b.gif)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11747210&count=10&width=500)
