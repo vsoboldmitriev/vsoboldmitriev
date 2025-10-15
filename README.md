@@ -1,10 +1,5 @@
 <img width="1179" height="604" alt="image" src="https://github.com/user-attachments/assets/2fc1c6aa-bec4-49cf-946d-1375fd259cce" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsoboldmitriev/vsoboldmitriev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsoboldmitriev/vsoboldmitriev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vsoboldmitriev/vsoboldmitriev/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/vsoboldmitriev/vsoboldmitriev/output/snake.svg" alt="Snake animation" />
 
 <!--
 **vsoboldmitriev/vsoboldmitriev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
