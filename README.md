@@ -1,7 +1,13 @@
 <img width="1179" height="604" alt="image" src="https://github.com/user-attachments/assets/2fc1c6aa-bec4-49cf-946d-1375fd259cce" />
-***
+
 ## hello world 🤖
-***
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsoboldmitriev/vsoboldmitriev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsoboldmitriev/vsoboldmitriev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vsoboldmitriev/vsoboldmitriev/output/pacman-contribution-graph.svg">
+</picture>
+
 <!--
 **vsoboldmitriev/vsoboldmitriev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11747210&count=10&width=500)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11747210&count=10&width=1000)
