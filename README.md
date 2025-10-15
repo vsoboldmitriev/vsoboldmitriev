@@ -1,4 +1,4 @@
-![Alt text|1000](https://i.pinimg.com/originals/26/27/01/26270164dedb3897539674f31268c37b.gif)
+<img width="1179" height="604" alt="image" src="https://github.com/user-attachments/assets/2fc1c6aa-bec4-49cf-946d-1375fd259cce" />
 ***
 ## hello world 🤖
 ***
