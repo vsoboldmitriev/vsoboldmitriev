@@ -1,7 +1,5 @@
 <img width="1179" height="604" alt="image" src="https://github.com/user-attachments/assets/2fc1c6aa-bec4-49cf-946d-1375fd259cce" />
 
-## hello world 🤖
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vsoboldmitriev/vsoboldmitriev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vsoboldmitriev/vsoboldmitriev/output/pacman-contribution-graph.svg">
